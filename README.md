@@ -1,4 +1,5 @@
 Resume Builder Project
+
 Overview
 The Resume Builder Project is a Java-based application designed to help users create professional resumes effortlessly. With a user-friendly graphical interface, this application allows users to input their personal details, including contact information, educational background, work experience, and skills. The application then generates a formatted resume and converts it into a PDF document for easy sharing and printing.
 
@@ -18,7 +19,7 @@ To get started with the Resume Builder Project, follow these steps:
 Clone the Repository:
 
 bash
-git clone https://github.com/yourusername/resume-builder.git
+git clone https://github.com/chirag4281/resume-builder.git
 
 
 bash
